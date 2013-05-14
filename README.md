@@ -1,4 +1,4 @@
-ece2524
+Chat Client #ece2524
 =======
 
 Requires: Qt Libraries, Linux 12.04+
